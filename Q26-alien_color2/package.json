@@ -1,0 +1,16 @@
+{
+  "name": "q26-alien_color2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alien_color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.11",
+    "D": "^1.0.0"
+  }
+}
